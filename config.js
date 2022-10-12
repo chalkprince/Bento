@@ -54,20 +54,20 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Map',
-			icon: 'github',
-			link: 'https://github.com/',
+			icon: 'compass',
+			link: '',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'map',
-			link: 'https://mail.protonmail.com/',
+			name: 'Planner',
+			icon: 'album',
+			link: '',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'album',
-			link: 'https://todoist.com',
+			icon: 'map',
+			link: '',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Tracker',
+			icon: 'search',
+			link: '',
 		},
 		{
 			id: '6',

@@ -187,19 +187,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
+					name: 'Builds',
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
+					name: 'KQM',
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
+					name: 'Ambr',
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Pocket',
+					name: 'Optimizer',
 					link: 'https://www.pocket.com',
 				},
 			],

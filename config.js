@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Map',
 			icon: 'compass',
-			link: '',
+			link: 'http://act.hoyolab.com/ys/app/interactive-map/index.html?lang=en-us',
 		},
 		{
 			id: '2',
 			name: 'Planner',
 			icon: 'album',
-			link: '',
+			link: 'http://genshin-center.com/planner',
 		},
 		{
 			id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Tracker',
 			icon: 'search',
-			link: '',
+			link: 'http://paimon.moe/',
 		},
 		{
 			id: '6',

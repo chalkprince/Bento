@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Map',
-			icon: 'map',
+			icon: 'compass',
 			link: 'http://act.hoyolab.com/ys/app/interactive-map/index.html?lang=en-us',
 		},
 		{
@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Optimizer',
-			icon: 'wand-2',
+			icon: 'sun',
 			link: '',
 		},
 		{
 			id: '5',
 			name: 'Tracker',
-			icon: 'line-chart',
+			icon: 'wand-2',
 			link: 'http://paimon.moe/',
 		},
 		{

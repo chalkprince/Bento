@@ -139,10 +139,6 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'HoYoLAB',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
 					name: 'Map',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
@@ -152,6 +148,10 @@ const CONFIG = {
 				},
 				{
 					name: 'Tracker',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'HoYoLAB',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],

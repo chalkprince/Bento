@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'map',
+			name: 'Builds',
+			icon: 'swords',
 			link: '',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Optimizer',
+			icon: 'wand-2',
+			link: '',
 		},
 		{
 			id: '5',
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
+			icon: 'calendar-check',
 			link: 'https://odysee.com/',
 		},
 	],

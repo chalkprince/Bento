@@ -53,20 +53,20 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Map',
 			icon: 'github',
 			link: 'https://github.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'map',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
+			icon: 'album',
 			link: 'https://todoist.com',
 		},
 		{

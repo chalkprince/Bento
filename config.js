@@ -98,13 +98,13 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
+			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
+			name: 'Discord',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
@@ -187,19 +187,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Builds',
+					name: 'Spotify',
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'KQM',
+					name: 'Reddit',
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Ambr',
+					name: 'Hashnode',
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Optimizer',
+					name: 'Pocket',
 					link: 'https://www.pocket.com',
 				},
 			],

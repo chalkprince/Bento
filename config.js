@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Tracker',
-			icon: 'glasses',
-			link: 'http://paimon.moe',
+			name: 'Check-In',
+			icon: 'calendar-check',
+			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
 		},
 		{
 			id: '4',
-			name: 'Builds',
-			icon: 'toy-brick',
-			link: 'http://tinyurl.com/genshinbuilds',
+			name: 'Tracker',
+			icon: 'glasses',
+			link: 'http://paimon.moe',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Check-In',
-			icon: 'calendar',
-			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
+			name: 'Builds',
+			icon: 'boxes',
+			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],
 

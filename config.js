@@ -60,19 +60,19 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Planner',
-			icon: 'book-open-check',
+			icon: 'book-open',
 			link: 'http://genshin-center.com/planner',
 		},
 		{
 			id: '3',
 			name: 'Tracker',
-			icon: 'search',
+			icon: 'glasses',
 			link: 'http://paimon.moe',
 		},
 		{
 			id: '4',
 			name: 'Check-In',
-			icon: 'calendar-heart',
+			icon: 'calendar',
 			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
 		},
 		{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'shopping-bag',
+			icon: 'wallet',
 			id: '2',
 			links: [
 				{

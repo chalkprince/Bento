@@ -65,21 +65,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
+			name: 'Optimizer',
+			icon: 'swords',
+			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
+		},
+		{
+			id: '4',
 			name: 'Builds',
 			icon: 'box',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Tracker',
 			icon: 'glasses',
 			link: 'http://paimon.moe',
-		},
-		{
-			id: '5',
-			name: 'Optimizer',
-			icon: 'swords',
-			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
 			id: '6',

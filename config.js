@@ -72,19 +72,19 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Check-In',
-			icon: 'calendar',
+			icon: 'gift',
 			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
 		},
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'zap',
+			icon: 'swords',
 			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'swords',
+			icon: 'box',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

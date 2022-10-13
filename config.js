@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Planner',
-			icon: 'book-open',
+			icon: 'book-open-check',
 			link: 'http://genshin-center.com/planner',
 		},
 		{
@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Check-In',
-			icon: 'calendar-check',
+			icon: 'calendar-heart',
 			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
 		},
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'wand-2',
+			icon: 'zap',
 			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
@@ -135,15 +135,15 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
-					name: 'Apple Music',
+					name: 'Music',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Goatlings',
+					name: 'Pinterest',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'shopping-bag',
 			id: '2',
 			links: [
 				{

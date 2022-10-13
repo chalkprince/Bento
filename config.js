@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Go to sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Music',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://music.apple.com/us',
 				},
 				{
 					name: 'Pinterest',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.pinterest.com',
 				},
 				{
 					name: 'Twitch',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.twitch.tv,
 				},
 				{
 					name: 'YouTube',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com',
 				},
 			],
 		},
@@ -162,19 +162,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Amazon',
-					link: 'https://www.linkedin.com',
+					link: 'https://smile.amazon.com',
 				},
 				{
 					name: 'Etsy',
-					link: 'https://www.dribbble.com',
+					link: 'https://www.etsy.com',
 				},
 				{
 					name: 'Mercari',
-					link: 'https://www.trello.com',
+					link: 'https://jp.mercari.com',
 				},
 				{
 					name: 'Sephora',
-					link: 'https://www.slack.com',
+					link: 'https://www.sephora.com',
 				},
 			],
 		},

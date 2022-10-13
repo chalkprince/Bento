@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Twitch',
-					link: 'https://www.twitch.tv,
+					link: 'https://www.twitch.tv',
 				},
 				{
 					name: 'YouTube',

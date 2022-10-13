@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Builds',
-			icon: 'box',
+			icon: 'graduation-cap',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Check-In',
-			icon: 'gift',
+			icon: 'calendar',
 			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
 		},
 	],

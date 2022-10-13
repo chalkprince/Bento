@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Optimizer',
-			icon: 'swords',
-			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
+			name: 'Tracker',
+			icon: 'glasses',
+			link: 'http://paimon.moe',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Tracker',
-			icon: 'glasses',
-			link: 'http://paimon.moe',
+			name: 'Optimizer',
+			icon: 'swords',
+			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
 			id: '6',

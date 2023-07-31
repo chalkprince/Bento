@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Tracker',
-			icon: 'glasses',
+			icon: 'sparkle',
 			link: 'http://paimon.moe',
 		},
 		{

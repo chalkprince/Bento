@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'rocket',
+			icon: 'wand',
 			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{

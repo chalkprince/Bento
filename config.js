@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Map',
 			icon: 'map-pin',
-			link: 'http://act.hoyolab.com/ys/app/interactive-map/index.html?lang=en-us',
+			link: 'https://hoyo.link/82OyCBAd',
 		},
 		{
 			id: '2',
@@ -78,13 +78,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'swords',
+			icon: 'rocket',
 			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'boxes',
+			icon: 'swords',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

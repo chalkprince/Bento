@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Planner',
-			icon: 'check-circle-2',
+			name: 'Todo',
+			icon: 'list-todo',
 			link: 'http://genshin-center.com/planner',
 		},
 		{
 			id: '5',
 			name: 'Optimizer',
 			icon: 'trending-up',
-			link: 'https://tinyurl.com/gen-optimizer',
+			link: 'https://tinyurl.com/genshin-optimizer-characters',
 		},
 		{
 			id: '6',

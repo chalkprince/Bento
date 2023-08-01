@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Log',
-			icon: 'scroll',
+			icon: 'book',
 			link: 'https://tinyurl.com/npc-comms',
 		},
 		{

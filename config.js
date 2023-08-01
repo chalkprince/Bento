@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Check-In',
-			icon: 'calendar-check',
-			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&lang=en-us',
+			name: 'Log',
+			icon: 'scroll-text',
+			link: 'https://tinyurl.com/npc-comms',
 		},
 		{
 			id: '4',
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'swords',
+			icon: 'wrench',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

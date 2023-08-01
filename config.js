@@ -59,20 +59,20 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Tracker',
+			name: 'Wishes',
 			icon: 'sparkle',
 			link: 'http://paimon.moe',
 		},
 		{
 			id: '3',
 			name: 'Log',
-			icon: 'book',
-			link: 'https://tinyurl.com/npc-comms',
+			icon: 'book-marked',
+			link: 'https://tinyurl.com/commissions-log',
 		},
 		{
 			id: '4',
 			name: 'Todo',
-			icon: 'list-todo',
+			icon: 'layout-list',
 			link: 'http://genshin-center.com/planner',
 		},
 		{

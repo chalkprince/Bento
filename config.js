@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Todo',
-			icon: 'layout-list',
+			icon: 'clipboard-check',
 			link: 'http://genshin-center.com/planner',
 		},
 		{

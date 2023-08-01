@@ -78,13 +78,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'wand',
+			icon: 'trending-up',
 			link: 'https://frzyc.github.io/genshin-optimizer/#/characters',
 		},
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'wrench',
+			icon: 'box',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

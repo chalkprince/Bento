@@ -66,13 +66,13 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Log',
-			icon: 'scroll-text',
+			icon: 'scroll',
 			link: 'https://tinyurl.com/npc-comms',
 		},
 		{
 			id: '4',
 			name: 'Planner',
-			icon: 'book-open',
+			icon: 'book',
 			link: 'http://genshin-center.com/planner',
 		},
 		{

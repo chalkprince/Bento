@@ -54,13 +54,13 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Map',
-			icon: 'map-pin',
+			icon: 'map',
 			link: 'https://hoyo.link/82OyCBAd',
 		},
 		{
 			id: '2',
 			name: 'Wishes',
-			icon: 'sparkle',
+			icon: 'sparkles',
 			link: 'http://paimon.moe',
 		},
 		{

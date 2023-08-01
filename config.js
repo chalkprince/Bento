@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Planner',
-			icon: 'book-open',
-			link: 'http://genshin-center.com/planner',
+			name: 'Tracker',
+			icon: 'sparkle',
+			link: 'http://paimon.moe',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Tracker',
-			icon: 'sparkle',
-			link: 'http://paimon.moe',
+			name: 'Planner',
+			icon: 'book-open',
+			link: 'http://genshin-center.com/planner',
 		},
 		{
 			id: '5',

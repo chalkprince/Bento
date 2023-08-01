@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'box',
+			icon: 'swords',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

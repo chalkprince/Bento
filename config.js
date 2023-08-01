@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Planner',
-			icon: 'check-circle',
+			icon: 'check-circle-2',
 			link: 'http://genshin-center.com/planner',
 		},
 		{

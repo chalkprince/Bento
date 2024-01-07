@@ -54,14 +54,14 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Map',
-			icon: 'map',
+			icon: 'map-pinned',
 			link: 'https://hoyo.link/82OyCBAd',
 		},
 		{
 			id: '2',
-			name: 'Wishes',
-			icon: 'sparkles',
-			link: 'http://paimon.moe',
+			name: 'Check-In',
+			icon: 'calendar-check',
+			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true',
 		},
 		{
 			id: '3',
@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Todo',
-			icon: 'list-todo',
+			icon: 'notebook-tabs',
 			link: 'http://genshin-center.com/planner',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Builds',
-			icon: 'box',
+			icon: 'swords',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],

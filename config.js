@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Builds',
-			icon: 'library',
+			icon: 'library-big',
 			link: 'http://tinyurl.com/genshinbuilds',
 		},
 		{

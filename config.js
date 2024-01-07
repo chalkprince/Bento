@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Check-In',
-			icon: 'calendar-check',
-			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true',
-		},
-		{
-			id: '3',
 			name: 'Log',
 			icon: 'book-marked',
 			link: 'https://tinyurl.com/commissions-log',
+		},
+		{
+			id: '3',
+			name: 'Check-In',
+			icon: 'calendar-check',
+			link: 'https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true',
 		},
 		{
 			id: '4',

@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Builds',
-			icon: 'library-big',
-			link: 'http://tinyurl.com/genshinbuilds',
-		},
-		{
-			id: '6',
 			name: 'Optimizer',
 			icon: 'trending-up',
 			link: 'https://tinyurl.com/genshin-optimizer-characters',
+		},
+		{
+			id: '6',
+			name: 'Builds',
+			icon: 'library-big',
+			link: 'http://tinyurl.com/genshinbuilds',
 		},
 	],
 

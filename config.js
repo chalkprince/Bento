@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Optimizer',
-			icon: 'trending-up',
+			icon: 'trophy',
 			link: 'https://tinyurl.com/genshin-optimizer-characters',
 		},
 		{

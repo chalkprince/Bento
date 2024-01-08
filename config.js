@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Builds',
-			icon: 'library-big',
-			link: 'http://tinyurl.com/genshinbuilds',
+			name: 'Planner',
+			icon: 'book-check',
+			link: 'http://genshin-center.com/planner',
 		},
 		{
 			id: '5',
-			name: 'Todo',
-			icon: 'book-check',
-			link: 'http://genshin-center.com/planner',
+			name: 'Builds',
+			icon: 'library-big',
+			link: 'http://tinyurl.com/genshinbuilds',
 		},
 		{
 			id: '6',
